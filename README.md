@@ -5,4 +5,5 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [redis server  client handle](https://github.com/Jack-laoniu/blog/issues/2)--2022-06-16
 - [hello blog](https://github.com/Jack-laoniu/blog/issues/1)--2022-06-14
