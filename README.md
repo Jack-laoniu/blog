@@ -14,7 +14,10 @@ My personal blog using issues and GitHub Actions (随意转载，无需署名)
 - [redis sentinel](https://github.com/Jack-laoniu/blog/issues/4)--2022-06-22
 - [redis  psync](https://github.com/Jack-laoniu/blog/issues/3)--2022-06-21
 - [redis server  client handle](https://github.com/Jack-laoniu/blog/issues/2)--2022-06-16
+## socket
+- [socket](https://github.com/Jack-laoniu/blog/issues/6)--2022-07-05
 ## 技术
+- [socket](https://github.com/Jack-laoniu/blog/issues/6)--2022-07-05
 - [redis sentinel](https://github.com/Jack-laoniu/blog/issues/4)--2022-06-22
 - [redis  psync](https://github.com/Jack-laoniu/blog/issues/3)--2022-06-21
 - [redis server  client handle](https://github.com/Jack-laoniu/blog/issues/2)--2022-06-16
